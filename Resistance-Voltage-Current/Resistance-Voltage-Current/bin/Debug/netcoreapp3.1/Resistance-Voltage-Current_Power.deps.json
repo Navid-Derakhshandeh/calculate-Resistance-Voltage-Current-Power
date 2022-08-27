@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Resistance-Voltage-Current_Power/1.0.0": {
+        "runtime": {
+          "Resistance-Voltage-Current_Power.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Resistance-Voltage-Current_Power/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
