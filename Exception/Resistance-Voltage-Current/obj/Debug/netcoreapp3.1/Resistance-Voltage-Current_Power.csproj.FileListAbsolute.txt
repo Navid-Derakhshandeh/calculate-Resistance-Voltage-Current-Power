@@ -1,0 +1,13 @@
+C:\Users\N.D\Desktop\Test4\Resistance-Voltage-Current\Resistance-Voltage-Current\bin\Debug\netcoreapp3.1\Resistance-Voltage-Current_Power.exe
+C:\Users\N.D\Desktop\Test4\Resistance-Voltage-Current\Resistance-Voltage-Current\bin\Debug\netcoreapp3.1\Resistance-Voltage-Current_Power.deps.json
+C:\Users\N.D\Desktop\Test4\Resistance-Voltage-Current\Resistance-Voltage-Current\bin\Debug\netcoreapp3.1\Resistance-Voltage-Current_Power.runtimeconfig.json
+C:\Users\N.D\Desktop\Test4\Resistance-Voltage-Current\Resistance-Voltage-Current\bin\Debug\netcoreapp3.1\Resistance-Voltage-Current_Power.runtimeconfig.dev.json
+C:\Users\N.D\Desktop\Test4\Resistance-Voltage-Current\Resistance-Voltage-Current\bin\Debug\netcoreapp3.1\Resistance-Voltage-Current_Power.dll
+C:\Users\N.D\Desktop\Test4\Resistance-Voltage-Current\Resistance-Voltage-Current\bin\Debug\netcoreapp3.1\Resistance-Voltage-Current_Power.pdb
+C:\Users\N.D\Desktop\Test4\Resistance-Voltage-Current\Resistance-Voltage-Current\obj\Debug\netcoreapp3.1\Resistance-Voltage-Current_Power.csprojAssemblyReference.cache
+C:\Users\N.D\Desktop\Test4\Resistance-Voltage-Current\Resistance-Voltage-Current\obj\Debug\netcoreapp3.1\Resistance-Voltage-Current_Power.AssemblyInfoInputs.cache
+C:\Users\N.D\Desktop\Test4\Resistance-Voltage-Current\Resistance-Voltage-Current\obj\Debug\netcoreapp3.1\Resistance-Voltage-Current_Power.AssemblyInfo.cs
+C:\Users\N.D\Desktop\Test4\Resistance-Voltage-Current\Resistance-Voltage-Current\obj\Debug\netcoreapp3.1\Resistance-Voltage-Current_Power.csproj.CoreCompileInputs.cache
+C:\Users\N.D\Desktop\Test4\Resistance-Voltage-Current\Resistance-Voltage-Current\obj\Debug\netcoreapp3.1\Resistance-Voltage-Current_Power.dll
+C:\Users\N.D\Desktop\Test4\Resistance-Voltage-Current\Resistance-Voltage-Current\obj\Debug\netcoreapp3.1\Resistance-Voltage-Current_Power.pdb
+C:\Users\N.D\Desktop\Test4\Resistance-Voltage-Current\Resistance-Voltage-Current\obj\Debug\netcoreapp3.1\Resistance-Voltage-Current_Power.genruntimeconfig.cache
